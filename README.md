@@ -22,5 +22,3 @@ Our design strategy to build our framework is devided into phases.
 **Phase (sub-project) 3**: implement the framework.
 
 **Phase (sub-project) 4**: build a community.
-
-
