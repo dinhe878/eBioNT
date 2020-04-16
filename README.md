@@ -1,14 +1,12 @@
 # eBioNT
 
-#### *A framework for more efficient biocomputing with new (cloud?) technologies* 
+#### *Raising awareness towards more efficient practices of biological big data computation with new (cloud?) technologies* 
 
 ***
 
-## Why do we need this?
+## What is the problem?
 
-### The problem
-
-Current practices in Biocomputing largely overlook resource optimization. This leads to lack of computational efficiency that results in waste of resources. This problem will accumulate to a major impact on bioinformatics workflow, and will ultimately compromise the sustainability of bio-science research.
+The lack of knowledge of how High Performance Computing (HPC) works for biological researchers leads to poor experimental design in informatics research. Designing experiments without optimization and scalability in mind leads to economic losses (department) and time losses (researcher).
 <br/></br>
 
 ### The strategy
